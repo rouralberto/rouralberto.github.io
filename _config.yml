@@ -1,1 +1,15 @@
-theme: jekyll-theme-hacker
+title: Alberto Roura
+email: static@albertoroura.com
+description: >-
+  This static page was built to learn Jekyll and to see the build
+  process used on GitHub Pages instead of traditional deployments.
+url: "https://static.albertoroura.com"
+twitter_username: rouralberto
+github_username:  rouralberto
+
+permalink: /:slug
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
